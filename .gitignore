@@ -1,0 +1,8 @@
+venv
+
+__pycache___
+*.pyc
+
+*.joblib
+
+.Ds_Store
